@@ -22,8 +22,8 @@ I'm currently exploring the world of AI and machine learning, with the goal of c
 ---
 
 ## ✨ Fun Projects So Far:
-- 📊 Simple Calculator Application:
-- 🎲 Random Number Caller Game: https://github.com/Kritika1322/-Random-Number-Caller-Game
+- 📊 Simple Calculator Application:https://github.com/Kritika1322/Simple-Calculator-.git
+- 🎲 Random Number Caller Game: https://github.com/Kritika1322/-Random-Number-Caller-Game.git
 
 ---
 
